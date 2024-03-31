@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowJs": true,            
+    "checkJs": true,
+    "outDir": "dist",
+    "sourceMap": true,
+    "target": "esnext",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "strict": true
+  },
+  "exclude": [
+    "node_modules",
+    "code",
+    "scripts"
+  ]
+}
